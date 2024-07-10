@@ -4,9 +4,11 @@
 A fun quiz app built with Flutter, testing your knowledge and keeping track of your progress.
 
 **Screenshots**
--------------
+--------------
 
-![Screenshot 1](screenshots/1.png)![Screenshot 2](screenshots/2.png)![Screenshot 3](screenshots/3.png)
+| | | |
+| --- | --- | --- |
+|![Screenshot 1](screenshots/1.png) |![Screenshot 2](screenshots/2.png) |![Screenshot 3](screenshots/3.png) |
 
 **Features**
 ------------
