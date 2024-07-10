@@ -1,16 +1,35 @@
-# quiz
+**Quiz App**
+=============
 
-A new Flutter project.
+A fun quiz app built with Flutter, testing your knowledge and keeping track of your progress.
 
-## Getting Started
+**Screenshots**
+-------------
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](screenshots/1.png)![Screenshot 2](screenshots/2.png)![Screenshot 3](screenshots/3.png)
 
-A few resources to get you started if this is your first Flutter project:
+**Features**
+------------
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Engaging quiz questions to test your knowledge
+* Two-button interface for easy answering
+* History of right and wrong answers displayed at the bottom of the screen
+* Responsive design for various screen sizes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Getting Started**
+---------------
+
+To run the app, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/marufimtiaz/flutter-quiz.git`
+2. Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code)
+3. Run the app on an emulator or physical device: `flutter run`
+
+**Contributing**
+------------
+
+Contributions are welcome! If you'd like to help add more questions, improve the UI, or fix bugs, please open a pull request.
+
+**Author**
+
+[Maruf Imtiaz]
