@@ -33,5 +33,6 @@ To run the app, follow these steps:
 Contributions are welcome! If you'd like to help add more questions, improve the UI, or fix bugs, please open a pull request.
 
 **Author**
+------------
 
 [Maruf Imtiaz]
